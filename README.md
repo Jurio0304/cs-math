@@ -6,7 +6,9 @@ Code repo for CS math
 
 
 ## 2. Image dimensionality reduction
+![fig](https://github.com/Jurio0304/cs-math/assets/61222525/a7716c42-1be9-4992-a8d6-94b43f540f72)
 
+![fig2](https://github.com/Jurio0304/cs-math/assets/61222525/28d334e8-ef13-47ab-92a8-f808300e71e5)
 
 
 ## 3. Clustering
